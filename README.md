@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, I'm Nirdhum</h1>
 <p align="center">A Person</p>
-<br>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nirdhum&label=Profile%20views&color=525fe1&style=flat" alt="nirdhum" /> </p>
 
 <p align="center"> 🔭 I’m currently working on: <a href="https://veridicuslab.com">Veridicus Lab</a></p>
