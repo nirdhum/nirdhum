@@ -8,12 +8,7 @@
 <p align="center"> 💬 Ask me about: <b>Whatever you want to</b></p>
 <p align="center"> 📫 How to reach meL <b>I guess by walking, cycling, driving, flying whatever you prefer</b></p>
 <p align="center"> ⚡ Fun fact: <b>I can make Pakau jokes in any situation</b> </p>
-<br>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/nirdhum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirdhum" height="30" width="60" /></a> &nbsp;
-<a href="https://dribbble.com/nirdhum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nirdhum" height="30" width="60" /></a>
-</p>
+
 <br>
 
 <h3 align="center">Languages and Tools:</h3><br>
@@ -35,4 +30,10 @@
 <img align="center" height="200" width="360" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirdhum&show_icons=true&locale=en&layout=compact" alt="nirdhum" />
 </p><br>
 <p align="center"> <a  href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirdhum&theme=apprentice&row=1&column=4" alt="nirdhum" /> </a> </p>
+<br>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/nirdhum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirdhum" height="30" width="60" /></a> &nbsp;
+<a href="https://dribbble.com/nirdhum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nirdhum" height="30" width="60" /></a>
+</p>
 
