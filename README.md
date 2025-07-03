@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nirdhum</h1>
-<h3 align="center">A Person</h3>
+<h3 align="center">Hi 👋, I'm Nirdhum</h1>
+<p align="center">A Person</p>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nirdhum&label=Profile%20views&color=525fe1&style=flat" alt="nirdhum" /> </p>
 
@@ -30,9 +30,8 @@
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/> </a> 
 </p>
 <br>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nirdhum&show_icons=true&locale=en" alt="nirdhum" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirdhum&show_icons=true&locale=en&layout=compact" alt="nirdhum" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirdhum" alt="nirdhum" /></p>
-
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirdhum&show_icons=true&locale=en" alt="nirdhum" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirdhum&show_icons=true&locale=en&layout=compact" alt="nirdhum" />
+</p>
 
