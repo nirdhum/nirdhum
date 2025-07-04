@@ -6,7 +6,7 @@
 <p align="center"> 🔭 I’m currently working on: <a href="https://veridicuslab.com">Veridicus Lab</a></p>
 <p align="center"> 🌱 I’m currently learning: <b>Something.. I think</b></p>
 <p align="center"> 💬 Ask me about: <b>Whatever you want to</b></p>
-<p align="center"> 📫 How to reach me <b>I guess by walking, cycling, driving, flying whatever you prefer</b></p>
+<p align="center"> 📫 How to reach me: <b>I guess by walking, cycling, driving, flying whatever you prefer</b></p>
 <p align="center"> ⚡ Fun fact: <b>I can make Pakau(Lame) jokes in any situation</b> </p>
 
 <br>
