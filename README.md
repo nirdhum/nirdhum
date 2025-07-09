@@ -28,9 +28,7 @@
 <p align="center">
 <img align="center" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=nirdhum&show_icons=true&locale=en" alt="nirdhum" />&nbsp;&nbsp;
 <img align="center" height="200" width="360" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirdhum&show_icons=true&locale=en&layout=compact" alt="nirdhum" />
-</p><br>
-<p align="center"> <a  href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirdhum&theme=apprentice&row=1&column=4" alt="nirdhum" /> </a> </p>
-<br>
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/nirdhum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirdhum" height="20" width="40" /></a> &nbsp;&nbsp;&nbsp;
